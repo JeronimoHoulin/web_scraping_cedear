@@ -1,4 +1,4 @@
-# web_scraping_cedear
+# Scrape de CEDEAR's para TC MEP, y BTC tasa con contratos futuros.
 Este código incluye trés formas de tomar data de diferentes páginas de internet, 
 en específico; cotizaciones de acciones de EEUU, sus respectivos CEDEARS y el TC MEP. 
 
