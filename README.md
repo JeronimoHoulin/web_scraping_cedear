@@ -10,5 +10,6 @@ Para la primera, se incluye un uso de la función "re", para limpiar y ordenar l
 Por último, una breve función con todas estas variables que nos devuelva una conclusión acerca de si el CEDEAR está barato respecto a su cotización en EEUUU, 
 es decir si su TC implícito es menor al MEP. 
 
+-- 0 --
 
 El script de BTC muestra el estado del carry trade para los contratos futuros de BTC.
